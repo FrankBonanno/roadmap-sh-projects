@@ -1,7 +1,6 @@
+
 # GitHub Activity Tracker
 This is a Python-based Command Line Interface (CLI) tool that allows users to fetch recent GitHub activity for any user, such as commits, issues, pull requests, stars, forks, and more.
-
-## Project Page URL
 https://roadmap.sh/projects/github-user-activity
 
 ## Features
