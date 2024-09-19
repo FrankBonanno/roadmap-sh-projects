@@ -4,7 +4,6 @@ This is a Python-based Command Line Interface (CLI) tool that allows users to fe
 ## Project Page URL
 https://roadmap.sh/projects/github-user-activity
 
-
 ## Features
 - Fetches the most recent events for a given GitHub user using the GitHub API.
 - Supports the use of a GitHub Personal Access Token (PAT) for authenticated requests to avoid rate limits.
