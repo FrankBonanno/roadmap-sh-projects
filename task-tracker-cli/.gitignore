@@ -1,0 +1,13 @@
+# Ignore test files
+test_*.py
+*.log
+tests/
+
+# Ignore VSCode settings (if you want to exclude VSCode-related files)
+.vscode/
+*.code-workspace
+
+# Ignore environment or build files
+__pycache__/
+*.pyc
+.env
